@@ -1,0 +1,12 @@
+## Interface: 40000
+## Title: |cFF006699ristretto|r Media
+## Notes: It's caffeine for your media pool.
+## Version: 1.0
+## Author: Hoern <hoern@d8c.us>
+## OptionalDeps: LibStub, LibSharedMedia-3.0
+
+l\LibStub\LibStub.lua
+l\CallbackHandler-1.0\CallbackHandler-1.0.lua
+l\LibSharedMedia-3.0\lib.xml
+
+r_Media.lua
